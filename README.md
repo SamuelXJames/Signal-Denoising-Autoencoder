@@ -1,2 +1,2 @@
 # DenoisingAutencoder
-A Deep Denoising Autencoder for time dependent signals
+A Deep Denoising Autencoder for Time Dependent Signals
